@@ -31,6 +31,8 @@ import * as lApi from '@layer.io/api'
 const lApiAccount = lapi.createAccount('your secret api key here');
 ```
 
+More code examples and explanations can be found at https://docs.layer.io
+
 For further information read the linked docs at the top of this readme.
 
 > MIT licensed | **&copy;** [Lossless GmbH](https://lossless.gmbh)
