@@ -26,12 +26,16 @@ import * as lApi from '@layer.io/api'
 
 /*
  * .createAccount creates an AccountInstance that exposes all API Layers for you.
- * Since it is all TypeScript, feel free to explorer the package in your IDE, preferably VSCode.
+ * Since it is all TypeScript, feel free to explore the package in your IDE.
+ * The preferred IDE is VSCode.
  */
 const lApiAccount = lapi.createAccount('your secret api key here');
 ```
 
 More code examples and explanations can be found at https://docs.layer.io
+
+## Support
+There is community support available from our [layer.io spectrum.chat community](https://spectrum.chat/lossless/layer-io?tab=posts). In case you want dedicated premium support check out our premium supporr offerings at  [https://lossless.support](https://lossless.support)
 
 For further information read the linked docs at the top of this readme.
 
