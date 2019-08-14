@@ -1,0 +1,17 @@
+{
+  "gitzone": {
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "layer.io",
+      "gitrepo": "api",
+      "shortDescription": "the api package for layer.io",
+      "npmPackagename": "@layer.io/api",
+      "license": "MIT",
+      "projectDomain": "layer.io"
+    }
+  },
+  "npmci": {
+    "npmGlobalTools": [],
+    "npmAccessLevel": "public"
+  }
+}
